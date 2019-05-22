@@ -27,8 +27,24 @@ Learning Kernel Mode Programming, Drivers and Rootkits
 
 * Zer0Memory Github: https://github.com/Zer0Mem0ry
 
+* Guided Hacking forum: https://guidedhacking.com/
+
+* Rohitlabs: http://www.rohitab.com/
+
+* Kernel Mode Info: https://www.kernelmode.info/forum/
+
+* Subverting the Windows Kernel: https://www.amazon.com/Rootkits-Subverting-Windows-Greg-Hoglund/dp/0321294319
+
+* Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software: https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting-ebook/dp/B007ED2XDS
+
 
 ## Credits:
 ### ContionMig
 ### Zer0Mem0ry
 ### DarthTon
+### Unknown Cheats
+### Guided Hacking
+### Rohitlabs
+### Kernel Mode Info
+### Greg Hoglund
+### Michael Sikorski and Andrew Honig
